@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0a0605"/>
+  <g stroke="#d4af37" stroke-width="2" fill="none">
+    <rect x="10" y="10" width="44" height="44"/>
+    <line x1="10" y1="10" x2="54" y2="54"/>
+    <line x1="54" y1="10" x2="10" y2="54"/>
+    <polygon points="32,10 54,32 32,54 10,32"/>
+  </g>
+  <text x="32" y="40" text-anchor="middle" font-size="20" fill="#d4af37" font-family="serif">ॐ</text>
+</svg>
